@@ -144,9 +144,9 @@ Model is deployed through streamlit
 
 ## 9. Tableau
 
-https://public.tableau.com/app/profile/fransiska.sri.mayawi/viz/TableauFinalProject_17594030848810/Dashboard1?publish=yes
+https://public.tableau.com/app/profile/fransiska.sri.mayawi/viz/BankMarketingTermDepositCampaign/Dashboard13
 
-![tableau](tableau.jpeg)
+![tableau](Dashboard.png)
 
 ---
 
