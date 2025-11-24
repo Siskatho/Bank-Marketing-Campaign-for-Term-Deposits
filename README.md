@@ -1,4 +1,4 @@
-# Bank Marketing Term Deposit Campaign Prediction
+# Predictive Model for Term Deposit in Bank Marketing Campaign
 
 ## 1. Project Overview
 
